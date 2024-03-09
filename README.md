@@ -27,6 +27,7 @@ The script incorporates basic error handling to ensure robustness during executi
 4. Follow the prompts to input the host IP, start and end ports, and whether to perform version detection.
 
 ### Example:
+![portscanner](https://github.com/flamin-goes/PScan/assets/157055209/b98c54cf-8516-4074-89a5-c4e369889402)
 
 
 ### Notes
